@@ -1,0 +1,1 @@
+"""RFC Securities AI Analyst — plain-language explanations and questions."""

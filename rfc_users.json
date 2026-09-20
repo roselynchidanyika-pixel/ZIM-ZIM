@@ -1,0 +1,12 @@
+{
+  "rfc": {
+    "salt": "3adbd2080f6f15f3",
+    "hash": "d855b52e776c4fda29b2b35a188bcc673bbefefb9a2e4299c33b468cf996fd34",
+    "role": "Admin"
+  },
+  "demo": {
+    "salt": "d300622b948063b6",
+    "hash": "0e0f2f763dfd087572d07995c6238220c51f91197c00d13812e985a9d018e829",
+    "role": "Analyst"
+  }
+}

@@ -1,0 +1,9 @@
+# RFC Securities — AI Financial Modelling Platform
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+plotly>=5.20
+openpyxl>=3.1
+gTTS>=2.5
+scipy>=1.13
+pytest>=8.0
